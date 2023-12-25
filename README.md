@@ -14,16 +14,17 @@ PRINT THE FINAL VALUE TO DISPLAY THE LENGTH BETWEEN TWO POINTS
 ### Step 5: 
 END THE PROGRAM
 ### PROGRAM:
-  '''
-  x1=10
+```
+#Program to find distance between twomm variables
+#Developed By: Mohamed Ridwan A
+RregisterNumber: 23003133
+x1=10
 x2=4
 y1=6
 y2=2
 d=((x2-x1)**2+(y2-y1)**2)**0.5
 print(round (d,2))
-'''
-
-
+```
 ### OUTPUT:
 ![image](https://github.com/MOHAMEDRIDWAN/DISTANCE-BETWEEN-TWO-POINTS/assets/146993368/a165948e-a17b-4741-9c44-50eb3b2fc61a)
 
