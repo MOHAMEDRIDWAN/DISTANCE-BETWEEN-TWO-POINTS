@@ -15,7 +15,7 @@ PRINT THE FINAL VALUE TO DISPLAY THE LENGTH BETWEEN TWO POINTS
 END THE PROGRAM
 ### PROGRAM:
 ```
-#Program to find distance between twomm variables
+#Program to find the distance between two points
 #Developed By: Mohamed Ridwan A
 RregisterNumber: 23003133
 x1=10
